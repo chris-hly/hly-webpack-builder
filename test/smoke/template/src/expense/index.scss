@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'kawoszeh.woff';
+    src: url('../images/kawoszeh.woff.ttf') format('truetype')
+}
+
+.expense {
+    font-size: 30clearpx;
+    font-family: 'kawoszeh.woff';
+}
+
+.expense__desc {
+    color: gray
+}
+
+.expense__img {
+    width: 160px
+}

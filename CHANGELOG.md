@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/chris-hly/hly-webpack-builder/compare/v1.0.4...v1.0.5) (2019-09-24)
+
+
+### Bug Fixes
+
+* **package:** fix package bug ([26ab236](https://github.com/chris-hly/hly-webpack-builder/commit/26ab236))
+
+
+
 ## [1.0.4](https://github.com/chris-hly/hly-webpack-builder/compare/v1.0.3...v1.0.4) (2019-09-24)
 
 

@@ -11,6 +11,7 @@ rimraf('./dist', () => {
     const prodConfig = require('../../lib/webpack.prod.js');
 
     webpack(prodConfig, (err, stats) => {
+        console.log(stats);
         if (err) {
             console.error(err);
             process.exit(2);

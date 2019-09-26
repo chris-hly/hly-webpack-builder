@@ -5,12 +5,11 @@ describe('cheche css js file', function () {
         const file = glob.sync([
             './dist/expense.html',
             './dist/my-account.html',
-    
         ])
         if (file.length > 0) {
             done();
         }else{
-            throw new Error('no html file geneerat')
+            throw new Error('no html file generate')
         }
     });
 });
